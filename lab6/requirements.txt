@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn==0.52.1
+websockets==16.0
+strawberry-graphql[fastapi]==0.341.3
+SQLAlchemy==2.0.58
+asyncpg==0.32.0
